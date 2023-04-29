@@ -58,12 +58,6 @@
 
         },
 
-        
-
-        
-
-        
-
         "LOG_CHANNEL": {
 
             "description": "Bot Logs,Give a channel id with -100xxxxxxx",
@@ -79,10 +73,6 @@
             "required": false
 
         },           
-
-        
-
-        
 
         "DATABASE_URI": {
 
@@ -121,21 +111,7 @@
             "required": false
 
         },
-
-        
-
-        
-
-        
-
-        
-
-        
-
          
-
-        
-
         "AUTH_GROUPS": {
 
             "description": "Group Id. Only work a specific group/ your bot is public use? please just Skip this",
@@ -146,18 +122,6 @@
 
         },
 
-        
-
-        
-
-        
-
-        
-
-        
-
-        
-
         "RemoveBG_API": {
 
             "description": "background remover website api key. get from https://www.remove.bg/b/background-removal-api",
@@ -165,9 +129,6 @@
             "required": false 
 
         },
-
-        
-
     },
 
     "buildpacks":
