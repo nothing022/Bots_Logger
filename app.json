@@ -42,14 +42,6 @@
 
         },
 
-        "CHANNELS": {
-
-            "description": "Username or ID of channel or group. where bot stay always admin",
-
-            "required": false
-
-        },
-
         "ADMINS": {
 
             "description": "Username or ID of Admin. Separate multiple Admins by space.",
@@ -65,14 +57,6 @@
             "required": true                              
 
         },
-
-        "AUTH_CHANNEL": {
-
-            "description": "ID of channel.Make sure bot is admin in this channel. Without subscribing this channel users cannot use bot.",
-
-            "required": false
-
-        },           
 
         "DATABASE_URI": {
 
@@ -96,7 +80,7 @@
 
             "description": "Name of the collections. Defaults to Telegram_files. If you are using the same database, then use different collection name for each bot",
 
-            "value": "Telegram_files",
+            "value": "Telegram_file",
 
             "required": false        
 
@@ -111,24 +95,6 @@
             "required": false
 
         },
-         
-        "AUTH_GROUPS": {
-
-            "description": "Group Id. Only work a specific group/ your bot is public use? please just Skip this",
-
-            "value": "",
-
-            "required": false
-
-        },
-
-        "RemoveBG_API": {
-
-            "description": "background remover website api key. get from https://www.remove.bg/b/background-removal-api",
-
-            "required": false 
-
-        }
     },
     "buildpacks":
         [
