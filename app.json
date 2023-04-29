@@ -41,16 +41,6 @@
             "description": "ID of channel.Make sure bot is admin in this channel. Without subscribing this channel users cannot use bot.",
             "required": false
         },           
-        "MAX_RIST_BTNS": {
-            "description": "Maximum number of serch result buttons count ⚠️below 10 only ",
-            "value": "10",
-            "required": false
-        },
-        "CUSTOM_FILE_CAPTION": {
-            "description": "A custom file caption for your files. formatable with , file_name, file_caption, file_size, Read Readme.md for better understanding.",
-            "value": "Hey {mention}👋\n\n{file_name}\n\n🔘 size - {file_size}\n\n╭─── • ❰ @MR_LINK_Z ❱ • ────➤\n┣ ▫️ @MRxSERIES\n┣ ▫️ @MalluMovie_Official\n╰─────── • ◆ • ───────➤",
-            "required": false
-        },
         "DATABASE_URI": {
             "description": "mongoDB URI.",
             "required": true
