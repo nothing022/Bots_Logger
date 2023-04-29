@@ -11,8 +11,6 @@ from Script import script
 from database.connections_mdb import active_connection, all_connections, delete_connection, if_active, make_active, make_inactive
 from utils import get_size, is_subscribed, get_poster, search_gagala, temp, get_settings, save_group_settings, get_shortlink
 from database.users_chats_db import db
-from database.ia_filterdb import Media, get_file_details, get_search_results, get_all_files
-from database.gfilters_mdb import find_gfilter, get_gfilters
 from plugins.helper.admin_check import admin_fliter
 
 # image editor tools
