@@ -128,7 +128,7 @@
 
             "required": false 
 
-        },
+        }
     },
 
     "buildpacks":
