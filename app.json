@@ -44,7 +44,7 @@
 
         "CHANNELS": {
 
-            "description": "Username or ID of channel or group. Separate multiple IDs by space.",
+            "description": "Username or ID of channel or group. where bot stay always admin",
 
             "required": false
 
@@ -60,7 +60,7 @@
 
         "LOG_CHANNEL": {
 
-            "description": "Bot Logs,Give a channel id with -100xxxxxxx",
+            "description": "Bot Logs,Give a channel id with -100xxxxxxx where bot stay always admin",
 
             "required": true                              
 
