@@ -44,7 +44,7 @@
 
         "ADMINS": {
 
-            "description": "Username or ID of Admin. Separate multiple Admins by space.",
+            "description": "Username or ID of Admin And Sudo Users And Owner For broadcast. Separate multiple Admins by space.",
 
             "required": true
 
@@ -63,16 +63,6 @@
             "description": "mongoDB URI.",
 
             "required": true
-
-        },
-
-        "SUPPORT_CHAT": {
-
-            "description": "Updated Channel Username Without @ Not Chanel ID",
-
-            "value": "TG_FRIENDSS",
-
-            "required": false
 
         }
     },
