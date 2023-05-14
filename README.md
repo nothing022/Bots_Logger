@@ -6,9 +6,6 @@
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SANGRAM-MUSIC/Professor)
-
-
 
 ━━━━━━━━━━━━━━━━━━━
 ### 🌷𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒🌷
@@ -30,10 +27,10 @@
 </h2>
 
 <p align="center">
-  <img src="https://graph.org/file/d874fc40ddf9ead0cad6b.jpg">
+  <img src="https://te.legra.ph/file/dcb01a8397a4658bd62e0.jpg">
 </p>
 
-ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [𝄟ॐ❥𝗩𝗜𝗣🍷𝗥𝗢𝗕𝗢𝗧𝄟⃟🥀](https://t.me/THE_VIP_ROBOT)
+𝐃𝐞𝐦𝐨:- [ॐ 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 ॐ](https://t.me/the_vip_bots/70465)
 ━━━━━━━━━━━━━━━━━━━━
 
 
@@ -48,8 +45,6 @@
 
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/THE-VIP-BOY-OP/VIP-ROBOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-darkred?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-## 𝐇𝐨𝐰 𝐓𝐨 𝐃𝐞𝐩𝐥𝐨𝐲 𝐓𝐮𝐭𝐨𝐫𝐢𝐚𝐥 𝐕𝐢𝐝𝐞𝐨 𝐎𝐧 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 📺
-- [![YouTube Video Views](https://img.shields.io/youtube/views/MF1nsTAN_Ns?label=Tutorial+•+Heroku+•&style=social)](https://youtu.be/MF1nsTAN_Ns)
 
 ━━━━━━━━━━━━━━━━━━━━
 
