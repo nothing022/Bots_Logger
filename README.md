@@ -12,8 +12,7 @@
 
 
 
- EXAMPLE:- [BOT](https://t.me/NothingMusic2_bbot)
-━━━━━━━━━━━━━━━━━━━━
+ EXAMPLE:- [MUSIC BOT](https://t.me/NothingMusic2_bbot)
 
 
 
