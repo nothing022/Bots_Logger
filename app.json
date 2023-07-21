@@ -1,18 +1,18 @@
 {
 
-    "name": "𝄟🌹𝗩𝗜𝗣 𝗟𝗢𝗚𝗚𝗘𝗥🌹𝄟",
+    "name": "BOTS LOGGER",
 
-    "description": "𝐓𝐆 𝐁𝐎𝐓𝐒 𝐋𝐎𝐆𝐆𝐄𝐑 ( #𝐍𝐄𝐖𝐆𝐑𝐎𝐔𝐏 & #𝐍𝐄𝐖𝐔𝐒𝐄𝐑)",
+    "description": "𝐁𝐎𝐓𝐒 𝐋𝐎𝐆𝐆𝐄𝐑 ( #𝐍𝐄𝐖𝐆𝐑𝐎𝐔𝐏 & #𝐍𝐄𝐖𝐔𝐒𝐄𝐑)",
 
-    "logo": "https://te.legra.ph/file/7822366f325c758e39e0f.jpg",
+    "logo": "https://te.legra.ph/file/ec08a28e5134ff4df78be.jpg",
 
     "keywords": ["telegram", "auto-filter"],
 
     "stack": "container",
 
-    "website": "https://github.com/THE-VIP-BOY-OP/VIP-LOGGER",
+    "website": "https://github.com/nothing022/Bots_Logger",
 
-    "repository": "https://github.com/THE-VIP-BOY-OP/VIP-LOGGER",
+    "repository": "https://github.com/nothing022/Bots_Logger",
 
     "env": {
 
