@@ -2,12 +2,6 @@
 
 
 
-<p align="center">
-    <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/THE-VIP-BOY-OP/count.svg" />
-</p>
-
-
 <h3 align="center">
 ======================
 </h3>
